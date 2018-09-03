@@ -1,0 +1,15 @@
+-Utworzyć figury i kontener, wybrać canvas czy css grid (nawet na sztywno); DONE
+-Obracanie figur;
+-Rozpoczęcie gry;
+-Generowanie randomowe figur;
+-Spadanie figur;
+-Nie przenikanie figur przez siebie;
+-Czyszczenie linii gdy figury się odpowiednio ułożą;
+-Przyśpieszenie tempa spadania (natychmiastowe spadnięcie figury);
+-Lvl up jako przyśpieszenie tempa spadania;
+-Podgląd następnego spadającego klocka;
+-Obliczanie wyniku;
+-Możliwość resetowania gry;
+-Dodać opcje z nickiem gracza;
+-Ranking;
+-testowanie pulli
